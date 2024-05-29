@@ -13,7 +13,7 @@ Book Portal is a simple web application built with Laravel that allows users to 
 
 ### Prerequisites
 
-- PHP >= 7.3
+- PHP
 - Composer
 - MySQL
 
